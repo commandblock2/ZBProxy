@@ -12,7 +12,7 @@ import (
 var onlineConnections = 0
 
 const (
-	ServerAddr             = "mc.hypixel.net"
+	ServerAddr             = "mc.remiaft.com"
 	ServerPort      uint16 = 25565 // this must be uint16 (unsigned short) to be compatible with the protocol
 	LocalPort       uint16 = 25565
 	MotdDescription        = ""
